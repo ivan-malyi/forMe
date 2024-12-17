@@ -1,0 +1,1 @@
+Here I look at various devices that may relate to my projects in one way or another

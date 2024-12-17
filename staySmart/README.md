@@ -1,0 +1,1 @@
+Here I review and explain the main concepts that I want to understand more deeply that I encounter while working on projects

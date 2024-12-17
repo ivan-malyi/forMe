@@ -1,0 +1,1 @@
+Here I discuss how to properly install and configure the gcc g++ compiler on OS Windows
