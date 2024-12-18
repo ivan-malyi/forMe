@@ -1,0 +1,1 @@
+Here I set up the main development environment for ESP devices, from the ESP developer himself - ESP-IDF
