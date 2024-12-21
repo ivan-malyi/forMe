@@ -76,9 +76,13 @@ GIT туториал
             git config --global user.name
             git config --global user.email
 
-        Настройка пользвоателя конкретной директори (отвечает за конкретный репозиторий):
+        Настройка пользователя конкретной директори (отвечает за конкретный репозиторий):
             git config user.name "Правильное Имя"
             git config user.email "правильный_емейл@example.com"
+
+        Затем можем проверить: 
+            git config user.name 
+            git config user.email
 
 
  
